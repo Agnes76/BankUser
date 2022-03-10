@@ -1,0 +1,17 @@
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\BankUser\Bankuser.Core\bin\Debug\net5.0\Bankuser.Core.deps.json
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\BankUser\Bankuser.Core\bin\Debug\net5.0\Bankuser.Core.dll
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\BankUser\Bankuser.Core\bin\Debug\net5.0\ref\Bankuser.Core.dll
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\BankUser\Bankuser.Core\bin\Debug\net5.0\Bankuser.Core.pdb
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\BankUser\Bankuser.Core\bin\Debug\net5.0\BankApp.Models.dll
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\BankUser\Bankuser.Core\bin\Debug\net5.0\BankUser.Data.dll
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\BankUser\Bankuser.Core\bin\Debug\net5.0\BankUser.Data.pdb
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\BankUser\Bankuser.Core\bin\Debug\net5.0\BankApp.Models.pdb
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\BankUser\Bankuser.Core\obj\Debug\net5.0\Bankuser.Core.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\BankUser\Bankuser.Core\obj\Debug\net5.0\Bankuser.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\BankUser\Bankuser.Core\obj\Debug\net5.0\Bankuser.Core.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\BankUser\Bankuser.Core\obj\Debug\net5.0\Bankuser.Core.AssemblyInfo.cs
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\BankUser\Bankuser.Core\obj\Debug\net5.0\Bankuser.Core.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\BankUser\Bankuser.Core\obj\Debug\net5.0\Bankuser.Core.csproj.CopyComplete
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\BankUser\Bankuser.Core\obj\Debug\net5.0\Bankuser.Core.dll
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\BankUser\Bankuser.Core\obj\Debug\net5.0\ref\Bankuser.Core.dll
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\BankUser\Bankuser.Core\obj\Debug\net5.0\Bankuser.Core.pdb
